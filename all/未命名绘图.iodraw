@@ -1328,11 +1328,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jI_sexNzHCTUxid646US-290" value="逻辑关联: 按漏洞类型匹配" style="curved=1;startArrow=ERzeroToMany;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.25;exitY=1.01;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="1" source="jI_sexNzHCTUxid646US-192" target="jI_sexNzHCTUxid646US-120">
-          <mxGeometry x="-0.0981" y="16" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="992" y="517" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jI_sexNzHCTUxid646US-291" value="逻辑关联: 按目标URL匹配" style="curved=1;startArrow=ERzeroToMany;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jI_sexNzHCTUxid646US-27" target="jI_sexNzHCTUxid646US-218">
