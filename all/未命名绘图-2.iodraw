@@ -108,6 +108,9 @@
         <mxCell id="WShAcqem6MctAaKmS_t8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WShAcqem6MctAaKmS_t8-44" target="WShAcqem6MctAaKmS_t8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WShAcqem6MctAaKmS_t8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WShAcqem6MctAaKmS_t8-44" target="WShAcqem6MctAaKmS_t8-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;匹配SQL报错&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-570" width="100" height="100" as="geometry" />
         </mxCell>
@@ -135,7 +138,7 @@
           <mxGeometry x="-420" y="-550" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提取信息并录入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="-430" width="120" height="40" as="geometry" />
+          <mxGeometry x="-370" y="-440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
