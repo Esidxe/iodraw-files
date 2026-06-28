@@ -19,7 +19,7 @@
         <mxCell id="auK_KEunyShbztqzEHHo-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;页面爬取，提取全站表单与带参URL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="auK_KEunyShbztqzEHHo-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;扫描器初始化、实例化XSSScanner，复用Session&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="auK_KEunyShbztqzEHHo-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;加载XSS测试载荷库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="270" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
