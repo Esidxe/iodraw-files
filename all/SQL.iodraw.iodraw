@@ -71,7 +71,7 @@
         <mxCell id="auK_KEunyShbztqzEHHo-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;合并至总扫描结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="auK_KEunyShbztqzEHHo-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表单XSS扫描&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="auK_KEunyShbztqzEHHo-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出扫描报告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
