@@ -105,6 +105,9 @@
         <mxCell id="WShAcqem6MctAaKmS_t8-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提交表单检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-640" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WShAcqem6MctAaKmS_t8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WShAcqem6MctAaKmS_t8-44" target="WShAcqem6MctAaKmS_t8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;匹配SQL报错&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-570" width="100" height="100" as="geometry" />
         </mxCell>
@@ -126,10 +129,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-562" width="40" height="30" as="geometry" />
+          <mxGeometry x="-543" y="-550" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-428" y="-562" width="40" height="30" as="geometry" />
+          <mxGeometry x="-433" y="-550" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
