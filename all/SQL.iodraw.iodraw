@@ -45,6 +45,9 @@
         <mxCell id="auK_KEunyShbztqzEHHo-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;综合/XSS专项&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="430" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="auK_KEunyShbztqzEHHo-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表单XSS扫描&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
