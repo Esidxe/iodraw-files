@@ -314,10 +314,10 @@
         <mxCell id="pBsOllAmHFt3JrcwYs0d-167" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="455" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pBsOllAmHFt3JrcwYs0d-168" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pBsOllAmHFt3JrcwYs0d-168" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;访问地址&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="395" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pBsOllAmHFt3JrcwYs0d-169" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试详情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pBsOllAmHFt3JrcwYs0d-169" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="340" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
