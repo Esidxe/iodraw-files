@@ -85,6 +85,9 @@
         <mxCell id="pBsOllAmHFt3JrcwYs0d-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="pBsOllAmHFt3JrcwYs0d-41" target="pBsOllAmHFt3JrcwYs0d-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pBsOllAmHFt3JrcwYs0d-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="335" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
