@@ -260,24 +260,14 @@
         <mxCell id="v4PyOdV1vApeJ7jIr4mR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="v4PyOdV1vApeJ7jIr4mR-11" target="v4PyOdV1vApeJ7jIr4mR-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v4PyOdV1vApeJ7jIr4mR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v4PyOdV1vApeJ7jIr4mR-20" target="v4PyOdV1vApeJ7jIr4mR-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="780" />
-              <mxPoint x="460" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v4PyOdV1vApeJ7jIr4mR-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;跳过入口检测环节&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="660" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v4PyOdV1vApeJ7jIr4mR-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;漏洞结果汇总去重&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="800" width="160" height="40" as="geometry" />
+          <mxGeometry x="380" y="790" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v4PyOdV1vApeJ7jIr4mR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="v4PyOdV1vApeJ7jIr4mR-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="800" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ew-_vKff4lS3nAM6br4q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v4PyOdV1vApeJ7jIr4mR-23" target="v4PyOdV1vApeJ7jIr4mR-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v4PyOdV1vApeJ7jIr4mR-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;补充低危上传入口风险结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="710" width="160" height="40" as="geometry" />
