@@ -239,7 +239,7 @@
           <mxGeometry x="210" y="545" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-120" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;报告摘要&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="-150" y="200" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-121" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="300" width="60" height="40" as="geometry" />
