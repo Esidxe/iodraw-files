@@ -239,13 +239,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-117" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试任务ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="490" width="60" height="40" as="geometry" />
+          <mxGeometry x="483" y="480" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-119" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试任务ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="500" width="60" height="40" as="geometry" />
+          <mxGeometry x="383" y="580" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-120" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试任务ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="545" width="60" height="40" as="geometry" />
+          <mxGeometry x="543" y="530" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-121" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试任务ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="585" width="60" height="40" as="geometry" />
