@@ -14,9 +14,9 @@
           <mxGeometry x="340" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pBsOllAmHFt3JrcwYs0d-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;测试报告表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="120" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pBsOllAmHFt3JrcwYs0d-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;测试报告表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pBsOllAmHFt3JrcwYs0d-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;测试记录表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
