@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="auK_KEunyShbztqzEHHo-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;表单XSS扫描&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="auK_KEunyShbztqzEHHo-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;综合/XSS专项&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="410" width="110" height="30" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="auK_KEunyShbztqzEHHo-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;反射型XSS扫描&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="544.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="auK_KEunyShbztqzEHHo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="auK_KEunyShbztqzEHHo-18" target="auK_KEunyShbztqzEHHo-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
