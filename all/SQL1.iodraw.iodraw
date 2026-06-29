@@ -119,10 +119,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-555" y="-620" width="40" height="30" as="geometry" />
+          <mxGeometry x="-560" y="-660" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WShAcqem6MctAaKmS_t8-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-405" y="-620" width="40" height="30" as="geometry" />
+          <mxGeometry x="-410" y="-660" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_qbUtTWTIFkaxxSyqjE8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WShAcqem6MctAaKmS_t8-55" target="WShAcqem6MctAaKmS_t8-20">
           <mxGeometry relative="1" as="geometry" />
